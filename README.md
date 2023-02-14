@@ -5,4 +5,4 @@ This is the Random Password Generator. We are to consider the scenario of an emp
 https://github.com/J05H94/03-Challenge
 https://j05h94.github.io/03-Challenge/
 
-![pwGen.png]
+![preview](./pwGen.PNG)
